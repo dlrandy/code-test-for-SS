@@ -1,0 +1,23 @@
+{
+  "name": "code-test-for-ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlrandy/code-test-for-SS.git"
+  },
+  "keywords": [],
+  "author": "dlrandy <ziyucrc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlrandy/code-test-for-SS/issues"
+  },
+  "homepage": "https://github.com/dlrandy/code-test-for-SS#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}

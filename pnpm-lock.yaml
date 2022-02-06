@@ -1,0 +1,25 @@
+lockfileVersion: 5.3
+
+specifiers:
+  csv-parser: ^3.0.0
+
+dependencies:
+  csv-parser: registry.npmmirror.com/csv-parser/3.0.0
+
+packages:
+
+  registry.npmmirror.com/csv-parser/3.0.0:
+    resolution: {integrity: sha512-s6OYSXAK3IdKqYO33y09jhypG/bSDHPuyCme/IdEHfWpLf/jKcpitVFyOC6UemgGk8v7Q5u2XE0vvwmanxhGlQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/csv-parser/-/csv-parser-3.0.0.tgz}
+    name: csv-parser
+    version: 3.0.0
+    engines: {node: '>= 10'}
+    hasBin: true
+    dependencies:
+      minimist: registry.npmmirror.com/minimist/1.2.5
+    dev: false
+
+  registry.npmmirror.com/minimist/1.2.5:
+    resolution: {integrity: sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/minimist/-/minimist-1.2.5.tgz}
+    name: minimist
+    version: 1.2.5
+    dev: false
